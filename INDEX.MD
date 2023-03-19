@@ -1,10 +1,19 @@
-# Mind Map: EZDeploy - Extensively Comprehensive Overview
+---
+title: "MSPToolshed: EZDeploy - Overview"
+excerpt_separator: "<!--more-->"
+categories:
+    - Overview
+tags:
+    - ChatGPT
+---
+
+# MSPToolshed: EZDeploy - Overview
 
 ## EZDeploy
 - A product offered by MSP Toolshed
 - Enables users to execute activities at-scale
 
-## Key Features
+## Features
 - Deployment of software to multiple machines simultaneously
   - Increases efficiency and reduces time required for software installation
   - Enables faster response times to software deployment needs
@@ -45,7 +54,7 @@
   - Enables monitoring and control of specific software deployment activities
   - Increases insight into software deployment performance and troubleshooting
 
-## Links: 
+## Random Links: 
 ### [ChatGPT UML: Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
 ### [ChatGPT UML: S.M.A.R.T. ](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
 ### [ChatGPT UML: Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
