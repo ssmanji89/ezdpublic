@@ -1,0 +1,1 @@
+function Write-CurEvent { write-eventlog -eventID $eventid -logName 'Application' -source 'Disk Cleanup' -entryType $entrytype -message $message; }
