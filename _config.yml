@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EZDeploy - Public Resources
+title: "EZDeploy - Public Resources"
 email: suleman@stackadvisors.com
 description: >- # this means to ignore newlines until "baseurl:"
-  “Amazing tool. Saves a lot of time in setting up new PCs for clients. Highly recommend this tool.” — Matthew
+  MSP Toolshed is a cloud-based configuration management software provider. It offers features such as automated development, automated naming rules, EZDeploy utility, remotely active directory, customized software provider, and compliance monitoring.
+  MSP Toolshed leverages the power of Automate to save hours of time and improve configuration consistency across machine builds. Including features like enhanced agent deployment, nested software profiles, remote AD Join (no VPN required), software compliance enforcement and agent auditing and reporting.
 twitter_username: msptoolshed
 github_username: ssmanji/ezdpublic
 minimal_mistakes_skin: default
@@ -27,9 +28,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
