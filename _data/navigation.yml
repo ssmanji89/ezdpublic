@@ -1,11 +1,9 @@
 main:
   - title: "Overview"
-    url: /_pages/
+    url: /_pages
   - title: "Powershell"
     url: /assets/powershell
-  - title: "Pages"
-    url: /_pages/
   - title: "Tags"
-    url: /tags/
+    url: /tags
   - title: "About"
     url: /about/suleman
