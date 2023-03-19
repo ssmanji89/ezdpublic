@@ -1,4 +1,6 @@
 main:
+  - title: "Overview"
+    url: /INDEX.md
   - title: "Posts"
     url: /posts/
   - title: "Categories"

@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   MSP Toolshed leverages the power of Automate to save hours of time and improve configuration consistency across machine builds. Including features like enhanced agent deployment, nested software profiles, remote AD Join (no VPN required), software compliance enforcement and agent auditing and reporting.
 twitter_username: msptoolshed
 github_username: ssmanji/ezdpublic
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings

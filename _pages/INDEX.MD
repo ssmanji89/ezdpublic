@@ -1,10 +1,8 @@
 ---
-title: "MSPToolshed: EZDeploy - Overview"
-excerpt_separator: "<!--more-->"
-categories:
-    - Overview
-tags:
-    - ChatGPT
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
+author_profile: true
 ---
 
 # MSPToolshed: EZDeploy - Overview
