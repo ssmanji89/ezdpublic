@@ -3,8 +3,8 @@ main:
     url: /_pages/
   - title: "Powershell"
     url: /assets/powershell
-  - title: "Categories"
-    url: /categories/
+  - title: "Pages"
+    url: /_pages/
   - title: "Tags"
     url: /tags/
   - title: "About"

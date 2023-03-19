@@ -1,6 +1,6 @@
 ---
-permalink: /assets/powershell
-title: "Powershell Resources"
+title: "Resources Index"
+layout: categories
+permalink: /assets/
+author_profile: true
 ---
-
-# to-do: Figure out Indexing and Updating on Commits
