@@ -1,13 +1,11 @@
 ---
-title: MIBs
+title: "Powershell Resources"
+permalink: /assets/powershell
 excerpt_separator: "<!--more-->"
 categories:
-  - Infrastructure Monitoring
+  # - 
 tags:
-  - ChatGPT
-  - Infrastructure Monitoring
-  - MIB OIDs
-  - MIB OID Reference
+   - Powershell
 ---
 
 # MIBs
