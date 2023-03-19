@@ -1,12 +1,13 @@
 ---
-title: Organizational Success Implementing Best Practices
+title: MIBs
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Infrastructure Monitoring
 tags:
-  - Organizational Success
-  - MIBS
   - ChatGPT
+  - Infrastructure Monitoring
+  - MIB OIDs
+  - MIB OID Reference
 ---
 
 # MIBs
