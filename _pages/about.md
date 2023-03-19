@@ -1,5 +1,5 @@
 ---
-permalink: /about/sully
+permalink: /about
 title: "About Suleman"
 ---
 
