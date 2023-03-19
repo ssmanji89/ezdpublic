@@ -25,7 +25,7 @@ param(
 [ValidateSet("AllOfficeProducts","MainOfficeProduct","Visio","Project")]
 [string[]]$ProductsToRemove = "AllOfficeProducts",
 
-[Parameter()]
+[Parameter()]    
 [ValidateSet("O365ProPlusRetail","O365BusinessRetail","VisioProRetail","ProjectProRetail", "SPDRetail", "VisioProXVolume", "VisioStdXVolume", 
              "ProjectProXVolume", "ProjectStdXVolume", "InfoPathRetail", "SkypeforBusinessEntryRetail", "LyncEntryRetail")]
 [string]$C2RProductsToRemove = "O365ProPlusRetail",
