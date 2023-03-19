@@ -1,6 +1,6 @@
 main:
   - title: "Overview"
-    url: /INDEX.md
+    url: /_pages/INDEX.md
   - title: "Powershell"
     url: /assets/powershell/
   - title: "Categories"
