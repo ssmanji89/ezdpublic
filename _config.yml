@@ -16,11 +16,9 @@
 title: EZDeploy - Public Resources
 email: suleman@stackadvisors.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  “Amazing tool. Saves a lot of time in setting up new PCs for clients. Highly recommend this tool.” — Matthew
+twitter_username: msptoolshed
+github_username: ssmanji/ezdpublic
 minimal_mistakes_skin: default
 search: true
 
@@ -35,6 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -62,9 +61,10 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Integrations @ StackAdvisors"
   links:
-    - label: "suleman.botstuff.org"
+  links:
+    - label: "MSP Toolshed"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://msptoolshed.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/slullyman"
@@ -77,15 +77,18 @@ author:
 
 footer:
   links:
+    - label: "MSP Toolshed"
+      icon: "fas fa-fw fa-link"
+      url: "https://msptoolshed.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/slullyman"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ssmanji89"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/sulemanmanji"
 
 defaults:
   # _posts
