@@ -1,0 +1,1 @@
+$filesToRename = (gci "c:\" -Recurse); $oldTezt = ""; $newTezt = ""; $filesToRename | ForEach-Object {$newName = ($_.FullName -replace ($oldTezt,$newTezt)); Rename-Item -Path $_.fullname -NewName $newName -Verbose}
