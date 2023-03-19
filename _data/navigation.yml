@@ -1,11 +1,11 @@
 main:
   - title: "Overview"
     url: /INDEX.md
-  - title: "Posts"
-    url: /posts/
+  - title: "Powershell"
+    url: /assets/powershell/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
-    url: /about/
+    url: /_pages/about-sully.md
