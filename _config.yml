@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Suleman Manji @ StackAdvisors, LLC."
+  name   : "Suleman Manji"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Integrations @ StackAdvisors"
   links:
@@ -90,7 +90,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
