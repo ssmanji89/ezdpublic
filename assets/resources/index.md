@@ -1,6 +1,6 @@
 ---
 title: "Resources Index"
 layout: categories
-permalink: /assets/powershell
+permalink: /assets/resources
 author_profile: true
 ---
