@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-layout: none
+layout: archive
 permalink: /_pages/
 author_profile: true
 ---
