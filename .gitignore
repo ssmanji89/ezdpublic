@@ -3,3 +3,8 @@ _site
 .jekyll-metadata
 Gemfile.lock
 git-commit-main-ssmanji.cmd
+*.iso
+*.msi
+*.ppkg
+*.vhdx
+*.csv
